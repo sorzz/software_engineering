@@ -18,7 +18,7 @@ public class ReadTextFromURL {
         String url_str; 
 
 	String add_string;
-	String second_user;
+	String final_user;
 
         Scanner sc = new Scanner(System.in); 
 	
