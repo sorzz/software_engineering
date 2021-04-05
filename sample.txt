@@ -9,5 +9,4 @@ zzzzzzz 어쩔!
 
 자자 github에서 한번 더 수정할껴!!
 
-
-2. local에서 수정한 코드 
+3. local에서 충돌 후 수정한 코드
