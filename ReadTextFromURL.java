@@ -17,6 +17,8 @@ public class ReadTextFromURL {
         String file_str;
         String url_str; 
 
+	String add_string;
+
         Scanner sc = new Scanner(System.in); 
 	
 
